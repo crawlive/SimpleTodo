@@ -32,11 +32,12 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Some challenges I encountered while building this app was trying to utilize 2021 gradle/android studio version while following a video made back in 2019.
+There were a few changes that were preferred, such as using lambda or an updated version of libraries.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2021] [name of copyright Theresa Crawford]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
